@@ -1,0 +1,4 @@
+D:\Work\UTF\OracleRatingServiceMigration\OracleRatingServiceMigration\UniversalTennis.Algorithm\obj\Release\netcoreapp2.0\linux-x64\UniversalTennis.Algorithm.csproj.CoreCompileInputs.cache
+D:\Work\UTF\OracleRatingServiceMigration\OracleRatingServiceMigration\UniversalTennis.Algorithm\obj\Release\netcoreapp2.0\linux-x64\UserSecretsAssemblyInfo.cs
+D:\Work\UTF\OracleRatingServiceMigration\OracleRatingServiceMigration\UniversalTennis.Algorithm\obj\Release\netcoreapp2.0\linux-x64\UniversalTennis.Algorithm.AssemblyInfoInputs.cache
+D:\Work\UTF\OracleRatingServiceMigration\OracleRatingServiceMigration\UniversalTennis.Algorithm\obj\Release\netcoreapp2.0\linux-x64\UniversalTennis.Algorithm.AssemblyInfo.cs
